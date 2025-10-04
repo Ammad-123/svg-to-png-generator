@@ -1,4 +1,7 @@
 🐍 SVG to PNG Image Generator (Python Automation)
+
+
+
 📘 Overview
 
 This project is a Python-based automation script that converts an SVG file into 1000 unique PNG images.
@@ -7,25 +10,18 @@ During each conversion, the script automatically updates a number inside the SVG
 ⚙️ Features
 
 🔄 Converts SVG → PNG automatically
-
 🔢 Dynamically modifies numbers in each image
-
 ⚡ Generates 1000+ images efficiently
-
 🧩 Clean and modular Python code
 
 🧾 Easy to customize for any SVG template
 
 🛠️ Tech Stack
-
 Python 3.10+
-
 CairoSVG / svglib / reportlab
-
 os / re / shutil for file management
 
 📦 Installation
-
 Clone the repository:
 
 git clone https://github.com/yourusername/svg-to-png-generator.git
@@ -33,16 +29,13 @@ cd svg-to-png-generator
 
 
 Install dependencies:
-
 pip install cairosvg
 
 
 Place your SVG file in the project folder (e.g., template.svg).
 
 🚀 Usage
-
 Run the script:
-
 python generate_images.py
 
 
