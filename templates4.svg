@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="160" xmlns="http://www.w3.org/2000/svg">
+    <path d="M40,40 L200,40 Q220,40 220,60 L220,100 Q220,120 200,120 L120,120 L100,140 L80,120 L40,120 Q20,120 20,100 L20,60 Q20,40 40,40 Z" 
+          fill="#66BB6A" stroke="#4CAF50" stroke-width="2"/>
+    <text x="120" y="85" text-anchor="middle" font-family="Arial" font-size="32" 
+          font-weight="bold" fill="white">NUMBER</text>
+</svg>

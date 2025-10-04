@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220" height="140" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="110" cy="70" rx="100" ry="60" fill="#E91E63"/>
+    <text x="110" y="80" text-anchor="middle" font-family="Arial" font-size="38" 
+          font-weight="bold" fill="white">NUMBER</text>
+</svg>
