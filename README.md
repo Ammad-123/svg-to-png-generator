@@ -24,7 +24,7 @@ os / re / shutil for file management
 📦 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/svg-to-png-generator.git
+git clone https://github.com/Ammad-123/svg-to-png-generator.git
 cd svg-to-png-generator
 
 
@@ -36,7 +36,7 @@ Place your SVG file in the project folder (e.g., template.svg).
 
 🚀 Usage
 Run the script:
-python generate_images.py
+python main.py
 
 
 Output:
